@@ -1,0 +1,15 @@
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/bin/Debug/net5.0/CastingBetweenTypes.deps.json
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/bin/Debug/net5.0/CastingBetweenTypes.runtimeconfig.json
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/bin/Debug/net5.0/CastingBetweenTypes.runtimeconfig.dev.json
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/bin/Debug/net5.0/CastingBetweenTypes.dll
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/bin/Debug/net5.0/ref/CastingBetweenTypes.dll
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/bin/Debug/net5.0/CastingBetweenTypes.pdb
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.csprojAssemblyReference.cache
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.AssemblyInfoInputs.cache
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.AssemblyInfo.cs
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.dll
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/ref/CastingBetweenTypes.dll
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.pdb
+/Users/rob/Projects/CastingBetweenTypes/CastingBetweenTypes/obj/Debug/net5.0/CastingBetweenTypes.genruntimeconfig.cache
